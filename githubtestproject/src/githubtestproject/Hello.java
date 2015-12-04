@@ -7,7 +7,7 @@ public class Hello {
 
 	}
 
-	//Hello Pieter Jan
+	//Hello Pieter
 	
 	//edit in een nieuwe branch mmmmmmm
 
